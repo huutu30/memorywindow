@@ -25,12 +25,16 @@ memorywindow/
 ├── README.md                  # Tài liệu giới thiệu tổng quan dự án
 ├── .gitignore                 # Cấu hình bỏ qua file tạm & bảo mật
 │
+├── chat_history/              # Toàn bộ 29 phiên hội thoại lịch sử đã trích xuất (.md)
+│   └── README.md              # Bảng chỉ mục tra cứu 29 cuộc hội thoại theo ngày
+│
 ├── knowledge/                 # Cơ sở tri thức chi tiết theo từng chuyên đề
 │   ├── 01-so-thich-user.md    # Phong cách giao tiếp, thẩm mỹ hình ảnh & trải nghiệm Mobile
 │   ├── 02-chinh-sach-google-ads.md # Bảng từ cấm, từ thay thế, quy tắc mẫu quảng cáo
 │   ├── 03-quy-chuan-nextjs-web.md  # Quy ước Next.js 16, React 19, tối ưu WebP Sharp, PageSpeed
 │   ├── 04-kinh-nghiem-automation.md # Tự động hóa Chrome CDP (9222/9223), Playwright, Anti-ban
-│   └── 05-kinh-nghiem-supabase-cms.md # CMS quản trị chuẩn SEO kết nối Supabase Cloud
+│   ├── 05-kinh-nghiem-supabase-cms.md # CMS quản trị chuẩn SEO kết nối Supabase Cloud
+│   └── 06-he-thong-automation-cache.md # Toàn bộ kiến trúc tool tự động hóa thư mục cache
 │
 ├── data/                      # Dữ liệu tài nguyên quan trọng
 │   ├── tu_khoa_phu_dinh_google_ads.txt # 340+ từ khóa phủ định loại trừ báo hỏng, sửa chữa
