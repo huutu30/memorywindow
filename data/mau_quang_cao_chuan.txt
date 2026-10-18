@@ -1,0 +1,75 @@
+====================================================================
+           BỘ TÀI LIỆU SETUP CHIẾN DỊCH GOOGLE ADS FPT MỚI
+               (Chuẩn Chính Sách & Độc Quyền Lắp Mới)
+====================================================================
+
+PHẦN 1: BỘ TỪ KHÓA TÌM KIẾM (KEYWORDS)
+(Copy nguyên cả dấu ngoặc vuông [] và ngoặc kép "" dán vào nhóm quảng cáo)
+--------------------------------------------------------------------
+[lắp wifi fpt]
+[lắp mạng fpt]
+[đăng ký wifi fpt]
+[đăng ký mạng fpt]
+"lắp wifi fpt"
+"lắp mạng fpt"
+"lắp internet fpt"
+"đăng ký wifi fpt"
+"đăng ký mạng fpt"
+"bắt wifi fpt"
+"kéo mạng fpt"
+[bảng giá wifi fpt]
+[gói cước wifi fpt]
+"bảng giá wifi fpt"
+"bảng giá mạng fpt"
+"gói cước wifi fpt"
+"combo mạng truyền hình fpt"
+"lắp wifi fpt tphcm"
+"lắp mạng fpt tphcm"
+"lắp wifi fpt bình dương"
+"lắp mạng fpt bình dương"
+
+
+PHẦN 2: 15 TIÊU ĐỀ QUẢNG CÁO (HEADLINES) - ĐỦ 15/15, DƯỚI 30 KÝ TỰ
+(Không chứa từ cấm: lắp đặt, tư vấn, kỹ thuật, sự cố...)
+--------------------------------------------------------------------
+1. Đăng Ký Mạng WiFi FPT             (Ghim vị trí 1 - 21 ký tự)
+2. Đăng Ký WiFi FPT Giá Sốc 200K     (29 ký tự)
+3. Combo Mạng + TV Chỉ Từ 220K       (27 ký tự)
+4. Ưu Đãi Đăng Ký Mới Hôm Nay        (26 ký tự)
+5. Bảng Giá WiFi FPT Mới Nhất        (26 ký tự)
+6. Trang Bị Modem WiFi 6 Miễn Phí    (30 ký tự)
+7. Tặng Camera FPT An Ninh 0Đ        (26 ký tự)
+8. Xem Ngoại Hạng Anh Bản Quyền      (28 ký tự)
+9. Mạng FPT Siêu Tốc Cực Mượt        (26 ký tự)
+10. Thủ Tục Gọn Lẹ Chỉ Cần CCCD      (27 ký tự)
+11. Đăng Ký Online Giảm Giá Ngay     (28 ký tự)
+12. Gói Cước Gia Đình Tiết Kiệm      (27 ký tự)
+13. Hòa Mạng Nhanh Trong 24 Giờ      (27 ký tự)
+14. Tặng Ngay 1 - 2 Tháng Cước       (26 ký tự)
+15. Mở Thuê Bao Nhận Trọn Bộ Quà     (28 ký tự)
+
+
+PHẦN 3: 4 MÔ TẢ QUẢNG CÁO (DESCRIPTIONS) - ĐỦ 4/4, DƯỚI 90 KÝ TỰ
+--------------------------------------------------------------------
+Mô tả 1 (86 ký tự):
+Đăng ký WiFi FPT tốc độ cao giá chỉ từ 200K/tháng. Tặng thêm đến 2 tháng cước sử dụng.
+
+Mô tả 2 (87 ký tự):
+Xem trọn Ngoại Hạng Anh cùng combo Mạng & FPT Play đỉnh cao. Đăng ký ngay nhận giá sốc.
+
+Mô tả 3 (89 ký tự):
+Băng thông 1Gbps lướt web thả ga. Thủ tục online chỉ cần CCCD, kích hoạt nhanh trong 24h.
+
+Mô tả 4 (87 ký tự):
+Gói cước WiFi gia đình chỉ từ 200K/tháng. Đăng ký hôm nay để nhận trọn bộ quà tặng FPT.
+
+
+PHẦN 4: TIỆN ÍCH CUỘC GỌI & ĐỊA ĐIỂM
+--------------------------------------------------------------------
+- Tên hiển thị kèm số điện thoại (Call Asset):
+  Hotline Đăng Ký Thuê Bao
+
+- Nhắm mục tiêu vị trí (Location):
+  TP. Hồ Chí Minh, Bình Dương
+  -> Chọn: "Sự hiện diện: Những người đang ở hoặc thường xuyên ở các vị trí này"
+====================================================================
