@@ -1,56 +1,74 @@
-# 🧠 MemoryWindow - Trung Tâm Quản Trị Bộ Nhớ & Quy Chuẩn Lập Trình AI
+# 🧠 MemoryWindow - Kho Lưu Trữ Toàn Diện Bộ Nhớ, Mã Nguồn & Quy Chuẩn Hệ Thống
 
-> **Dự án lưu trữ tập trung toàn bộ "bộ nhớ", kinh nghiệm thực chiến, quy ước lập trình, ràng buộc chính sách Google Ads và sở thích cá nhân của User trên máy tính.**
-
----
-
-## 🎯 Mục Đích & Ý Nghĩa Dự Án
-
-Khi làm việc với các trợ lý AI (như Antigravity, Gemini, Claude Code, Cursor, Copilot), các AI thường bị "mất trí nhớ" hoặc quên đi các kinh nghiệm quý báu đã từng giải quyết trong quá khứ. 
-
-**MemoryWindow** được tạo ra nhằm mục đích:
-1. **Lưu trữ vĩnh viễn** toàn bộ phong cách làm việc, sở thích và quy chuẩn khắt khe của bạn.
-2. **Ngăn chặn lặp lại sai lầm**: Đặc biệt là các cảnh báo vi phạm chính sách của Google Ads (Dịch vụ hỗ trợ kỹ thuật bên thứ ba) hay lỗi làm mờ banner ảnh khi tối ưu PageSpeed.
-3. **Đồng bộ đa nền tảng**: Cung cấp sẵn các file cấu hình chuẩn (`AGENTS.md`, `CLAUDE.md`, `GEMINI.md`) để có thể áp dụng hoặc sao chép ngay sang bất kỳ dự án mới nào trên máy tính chỉ với 1 lệnh script.
+> **Dự án trung tâm lưu trữ toàn bộ mã nguồn công cụ, lịch sử hội thoại, kinh nghiệm lập trình, chính sách quảng cáo và sở thích của User trên toàn bộ máy tính.**
 
 ---
 
-## 📁 Cấu Trúc Thư Mục
+## 📁 Cấu Trúc Tổng Thể
 
 ```text
 memorywindow/
-├── AGENTS.md                  # Quy chuẩn tổng hợp đa năng cho mọi AI Agent
-├── CLAUDE.md                  # Cấu hình chuẩn cho Claude Code / Anthropic
+├── AGENTS.md                  # Quy chuẩn gốc cho mọi AI Agent trên máy tính
+├── CLAUDE.md                  # Cấu hình chuẩn cho Claude Code (@AGENTS.md)
 ├── GEMINI.md                  # Cấu hình chuẩn cho Gemini AI / Antigravity IDE
-├── README.md                  # Tài liệu giới thiệu tổng quan dự án
-├── .gitignore                 # Cấu hình bỏ qua file tạm & bảo mật
+├── README.md                  # Mục lục và hướng dẫn trung tâm
+├── .gitignore                 # Cấu hình loại trừ file rác / bảo mật
 │
-├── chat_history/              # Toàn bộ 29 phiên hội thoại lịch sử đã trích xuất (.md)
-│   └── README.md              # Bảng chỉ mục tra cứu 29 cuộc hội thoại theo ngày
+├── chat_history/              # Toàn bộ 29 phiên hội thoại AI đã được trích xuất (.md)
+│   ├── README.md              # Bảng tra cứu lịch sử theo ngày tháng và chủ đề
+│   └── *.md                   # Từng cuộc hội thoại chi tiết
 │
-├── knowledge/                 # Cơ sở tri thức chi tiết theo từng chuyên đề
-│   ├── 01-so-thich-user.md    # Phong cách giao tiếp, thẩm mỹ hình ảnh & trải nghiệm Mobile
-│   ├── 02-chinh-sach-google-ads.md # Bảng từ cấm, từ thay thế, quy tắc mẫu quảng cáo
-│   ├── 03-quy-chuan-nextjs-web.md  # Quy ước Next.js 16, React 19, tối ưu WebP Sharp, PageSpeed
-│   ├── 04-kinh-nghiem-automation.md # Tự động hóa Chrome CDP (9222/9223), Playwright, Anti-ban
-│   ├── 05-kinh-nghiem-supabase-cms.md # CMS quản trị chuẩn SEO kết nối Supabase Cloud
-│   └── 06-he-thong-automation-cache.md # Toàn bộ kiến trúc tool tự động hóa thư mục cache
+├── knowledge/                 # Cơ sở tri thức chuyên sâu
+│   ├── 01-so-thich-user.md    # Giao tiếp trực diện, duyệt Plan trước, giữ độ nét ảnh Crystal Sharp
+│   ├── 02-chinh-sach-google-ads.md # Bảng từ cấm, từ thay thế, disclaimer, quy tắc Google Ads
+│   ├── 03-quy-chuan-nextjs-web.md  # Next.js 16 breaking changes, Sharp WebP, PageSpeed > 80-90+
+│   ├── 04-kinh-nghiem-automation.md # Chrome CDP 9222/9223, anti-ban, hẹn giờ tắt máy, UTF-8
+│   ├── 05-kinh-nghiem-supabase-cms.md # CMS quản trị bài viết chuẩn SEO kết nối Supabase Cloud
+│   ├── 06-he-thong-automation-cache.md # Toàn bộ kiến trúc tool tự động hóa thư mục cache
+│   ├── 07-he-thong-crawler-lead-farm.md # Kiến trúc công cụ cào số điện thoại thư mục farm
+│   └── 08-huong-dan-trien-khai-vercel-domain.md # Cấu hình deploy Vercel & khắc phục phân quyền
 │
-├── data/                      # Dữ liệu tài nguyên quan trọng
-│   ├── tu_khoa_phu_dinh_google_ads.txt # 340+ từ khóa phủ định loại trừ báo hỏng, sửa chữa
-│   └── mau_quang_cao_chuan.txt         # Bộ 15 tiêu đề & 4 mô tả chuẩn chính sách Google Ads
+├── automation_scripts/        # Toàn bộ mã nguồn tự động hóa SOP & Zalo (từ thư mục cache)
+│   ├── pipeline.py            # Chạy tự động khép kín & hẹn giờ tắt máy 10 phút
+│   ├── type.py                # Bot tạo hội thoại khách hàng mới (cổng 9223)
+│   ├── run.py                 # Bot điền thông tin địa chỉ khách hàng (cổng 9222)
+│   ├── auto_campaign.py       # Tự động hóa copy chiến dịch & cập nhật hợp đồng
+│   ├── auto_update_status.py  # Cập nhật trạng thái hội thoại tự động
+│   ├── auto_lookup_sop.py     # Tra cứu số điện thoại SOP
+│   ├── fpl.py                 # Tự động hóa giả lập LDPlayer qua ADB
+│   ├── zalo_sender.py         # Bot gửi tin nhắn Zalo Web theo danh bạ
+│   ├── tach_sdt.py            # Tiện ích lọc tách số điện thoại
+│   └── chay_tool.bat / .ps1   # Các kịch bản chạy nhanh
+│
+├── crawler_scripts/           # Toàn bộ mã nguồn cào dữ liệu khách hàng (từ thư mục farm)
+│   ├── crawl_binhchanh.js     # Cào số điện thoại khu vực Bình Chánh / Hóc Môn / Nhà Bè
+│   ├── crawl_binhtan.js       # Cào số điện thoại khu vực Bình Tân
+│   ├── crawl_tieu_thuong.js   # Cào số điện thoại tiểu thương hộ kinh doanh
+│   ├── supercrawl.js          # Bộ quét đa luồng tốc độ cao
+│   └── export_data.js         # Khử trùng lặp và xuất dữ liệu telesale
+│
+├── google_ads_resources/      # Toàn bộ tài nguyên & báo cáo chiến dịch Google Ads
+│   ├── Chien_Dich_Google_Ads_FPT_Moi.txt # 15 tiêu đề, 4 mô tả, danh sách từ khóa chuẩn
+│   ├── tu_khoa_phu_dinh_unique.txt       # 340+ từ khóa phủ định loại bỏ báo hỏng, sửa chữa
+│   └── Bao_cao_chi_tiet_tu_khoa_phu_dinh.xml # Dữ liệu phân tích từ khóa phủ định
+│
+├── project_guides/            # Hướng dẫn kỹ thuật & script hỗ trợ
+│   ├── HUONG_DAN_EMAIL.md     # Cấu hình SMTP Gmail App Password bảo mật
+│   ├── chinhsachbaomat.txt    # Nội dung chính sách bảo mật cho website
+│   └── indexnow-ping.js       # Tự động gửi URL ping lên IndexNow API
 │
 └── scripts/
-    └── sync_to_project.ps1    # Script tự động copy AGENTS.md sang các dự án khác
+    └── sync_to_project.ps1    # Script đồng bộ AGENTS.md sang bất kỳ dự án nào khác
 ```
 
 ---
 
-## 🚀 Cách Sử Dụng Cho Dự Án Mới
+## 🚀 Cách Đẩy Lên GitHub 1 Lần Duy Nhất
 
-Mỗi khi bạn bắt đầu một dự án mới trên máy tính (ví dụ: `c:\Users\hp\Desktop\du-an-moi`), bạn chỉ cần:
-1. Mở PowerShell tại thư mục `memorywindow`:
-   ```powershell
-   .\scripts\sync_to_project.ps1 -TargetDir "c:\Users\hp\Desktop\du-an-moi"
+1. Tạo một repository mới trên GitHub đặt tên là **`memorywindow`** (khuyến nghị chọn **Public**).
+2. Chạy lệnh tại thư mục `memorywindow`:
+   ```bash
+   git remote add origin https://github.com/<tai-khoan>/memorywindow.git
+   git push -u origin main
    ```
-2. AI Agent khi mở dự án mới đó sẽ tự động đọc `AGENTS.md` / `CLAUDE.md` và tuân thủ ngay từ đầu mọi sở thích và quy chuẩn của bạn mà không cần phải nhắc lại!
+Toàn bộ mã nguồn tự động hóa, cào dữ liệu, bộ tài liệu quảng cáo và 29 phiên hội thoại sẽ được lưu trữ an toàn trên đám mây!

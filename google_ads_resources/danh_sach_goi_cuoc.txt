@@ -1,0 +1,320 @@
+==================================================
+FILE: internetData.js
+==================================================
+
+--- Nhóm: ca_nhan ---
+ID: giga
+Tên gói: Internet Giga
+Ảnh hiện tại: /images/internet-giga.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b467a6577_Giga%20%283%29.jpg
+
+ID: sky
+Tên gói: Internet Sky
+Ảnh hiện tại: /images/internet-sky.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b4565669b_Sky%20%283%29.jpg
+
+ID: meta
+Tên gói: Internet Meta
+Ảnh hiện tại: /images/internet-meta.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec560db604_Internet%20meta%20%282%29.jpg
+
+ID: giga-f1
+Tên gói: Internet Giga F1
+Ảnh hiện tại: /images/internet-giga-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b48f79ea2_Internet%20GIGA%20F1%20%288%29.jpg
+
+ID: sky-f1
+Tên gói: Internet Sky F1
+Ảnh hiện tại: /images/internet-sky-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b4c2ddbdc_Internet%20Sky%20F1%20%288%29.jpg
+
+ID: meta-f1
+Tên gói: Internet Meta F1
+Ảnh hiện tại: /images/699ec5753be29_Intern_799ce45a.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec5753be29_Internet%20Meta%20F1%20%281%29.jpg
+
+ID: fpt-an-tam
+Tên gói: FPT An Tâm
+Ảnh hiện tại: /images/6915eebe593b4_FPT_20_a4bd7b48.webp
+Link ảnh mới từ fpt.vn: 
+
+ID: sky-f2
+Tên gói: Internet Sky F2
+Ảnh hiện tại: /images/combo-sky-f2.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b4ce4e42c_Internet%20Sky%20F2%20%285%29.jpg
+
+ID: sky-f3
+Tên gói: Internet Sky F3
+Ảnh hiện tại: /images/combo-the-thao-sky-f3.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b4de29066_Internet%20Sky%20F3%20%284%29.jpg
+
+ID: meta-f2
+Tên gói: Internet Meta F2
+Ảnh hiện tại: /images/699ec5884a259_Intern_fc82dc9b.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec5884a259_Internet%20Meta%20F2%20%281%29.jpg
+
+ID: meta-f3
+Tên gói: Internet Meta F3
+Ảnh hiện tại: /images/6915f4726f49c_Intern_c45fea2b.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/6915f4726f49c_Internet%20Meta%20F3.jpg
+
+
+--- Nhóm: gia_dinh ---
+ID: giga-f1
+Tên gói: Internet Giga F1
+Ảnh hiện tại: /images/internet-giga-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b48f79ea2_Internet%20GIGA%20F1%20%288%29.jpg
+
+ID: sky-f1
+Tên gói: Internet Sky F1
+Ảnh hiện tại: /images/internet-sky-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b4c2ddbdc_Internet%20Sky%20F1%20%288%29.jpg
+
+ID: sky-f2
+Tên gói: Internet Sky F2
+Ảnh hiện tại: /images/combo-sky-f2.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b4ce4e42c_Internet%20Sky%20F2%20%285%29.jpg
+
+ID: an-tam
+Tên gói: FPT An Tâm
+Ảnh hiện tại: /images/internet-meta.webp
+Link ảnh mới từ fpt.vn: 
+
+ID: combo-giga-f1
+Tên gói: Combo Giga F1
+Ảnh hiện tại: /images/combo-giga-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b51be9eaa_Combo%20GIGA%20F1%20%284%29.jpg
+
+ID: combo-sky-f1
+Tên gói: Combo Sky F1
+Ảnh hiện tại: /images/combo-sky-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b530c704f_Combo%20Sky%20F1%20%283%29.jpg
+
+ID: fgame-f1
+Tên gói: F-Game F1
+Ảnh hiện tại: /images/6915f4e925e2a_Intern_cd019b27.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/6915f4e925e2a_Internet%20F-Game%20F1.jpg
+
+ID: meta
+Tên gói: Internet Meta
+Ảnh hiện tại: /images/internet-meta.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec560db604_Internet%20meta%20%282%29.jpg
+
+ID: meta-f1
+Tên gói: Internet Meta F1
+Ảnh hiện tại: https://ifpt.vn/wp-content/uploads/internet-meta-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec5753be29_Internet%20Meta%20F1%20%281%29.jpg
+
+ID: meta-f2
+Tên gói: Internet Meta F2
+Ảnh hiện tại: /images/699ec5884a259_Intern_fc82dc9b.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec5884a259_Internet%20Meta%20F2%20%281%29.jpg
+
+ID: meta-f3
+Tên gói: Internet Meta 3
+Ảnh hiện tại: /images/6915f4726f49c_Intern_c45fea2b.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/6915f4726f49c_Internet%20Meta%20F3.jpg
+
+
+
+
+--- Nhóm: doanh_nghiep ---
+ID: lux500
+Tên gói: LUX 500
+Ảnh hiện tại: /images/69161534e6eb7_intern_b1ce733e.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/69161534e6eb7_internet-lux-500-fpt.jpg
+
+ID: lux800
+Tên gói: LUX 800
+Ảnh hiện tại: /images/lux-800.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/69161611f1393_internet-lux-800-fpt.jpg
+
+ID: c-lux500
+Tên gói: COMBO LUX 500
+Ảnh hiện tại: /images/lux-800.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/691615bdb0fe9_combo-lux-500-fpt.jpg
+
+ID: c-lux800
+Tên gói: COMBO LUX 800
+Ảnh hiện tại: /images/lux-800.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/6915ed41d4d72_1748395653_combo-lux-800-fpt.jpg
+
+ID: s300-biz
+Tên gói: SUPER 300 BIZ
+Ảnh hiện tại: /images/Super_300_Biz_FPT_10_a94ee99e.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/6916d65285de6_Super300%20Biz.jpg
+
+ID: s300-biz-plus
+Tên gói: SUPER 300 BIZ PLUS
+Ảnh hiện tại: /images/Super_300_Biz_Plus_F_29ed9b4a.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/6916d61d716c5_Super300%20Biz%20Plus.jpg
+
+ID: s500-biz
+Tên gói: SUPER 500 BIZ
+Ảnh hiện tại: /images/super-500-biz.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/6916d5e3eea88_Super500%20Biz.jpg
+
+ID: s500-biz-plus
+Tên gói: SUPER 500 BIZ PLUS
+Ảnh hiện tại: /images/super-500-biz-plus.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/6916d5989e67a_Super500%20Biz%20Plus.jpg
+
+ID: s600-biz
+Tên gói: SUPER 600 BIZ
+Ảnh hiện tại: /images/super-600-biz.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/6916d57127164_Super600%20Biz.jpg
+
+ID: s600-biz-plus
+Tên gói: SUPER 600 BIZ PLUS
+Ảnh hiện tại: /images/super-600-biz-plus.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/6916d52ee367a_Super600%20Biz%20Plus.jpg
+
+ID: s800-biz
+Tên gói: SUPER 800 BIZ
+Ảnh hiện tại: /images/super-800-biz.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/6916024fd255e_Super800%20Biz.png
+
+ID: s800-biz-plus
+Tên gói: SUPER 800 BIZ PLUS
+Ảnh hiện tại: /images/Super800_Biz_Plus_FP_6ba22628.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/691601f767c77_Super800%20Biz%20Plus.png
+
+
+--- Nhóm: f_game ---
+ID: meta
+Tên gói: Internet Meta
+Ảnh hiện tại: /images/internet-meta.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec560db604_Internet%20meta%20%282%29.jpg
+
+ID: f-game
+Tên gói: Internet F-Game
+Ảnh hiện tại: /images/F_Game_1Gbps_300Mbps_acbcacb4.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/6915ecfeb852d_G%C3%B3i%20FGame.jpg
+
+ID: combo-meta
+Tên gói: Combo Meta
+Ảnh hiện tại: /images/699ec51ddd4b3_Combo__dc6e1a1b.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-02-25/699ec51ddd4b3_Combo%20Meta%20%281%29.jpg
+
+ID: combo-fgame
+Tên gói: Combo F-Game
+Ảnh hiện tại: /images/Combo_Fgame_jpg_0842f2c0.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/69160df8a12a8_Combo%20FGame.jpg
+
+ID: f-game-f1
+Tên gói: F-Game F1
+Ảnh hiện tại: /images/6915f4e925e2a_Intern_cd019b27.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-13/6915f4e925e2a_Internet%20F-Game%20F1.jpg
+
+ID: combo-fgame-f1
+Tên gói: Combo F-Game F1
+Ảnh hiện tại: /images/69160e909d6da_Combo__3e0660a6.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2025-11-14/69160e909d6da_Combo%20FGame%20F1.jpg
+
+
+==================================================
+FILE: truyenHinhData.js
+==================================================
+
+--- Nhóm: the_thao ---
+ID: c-the-thao-sky
+Tên gói: Combo thể thao SKY
+Ảnh hiện tại: /images/combo-the-thao-sky.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290dfed6a95_Combo%20the%CC%82%CC%89%20thao%20Sky.jpg
+
+ID: c-the-thao-meta
+Tên gói: Combo thể thao META
+Ảnh hiện tại: /images/combo-the-thao-meta.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290d66e02b5_Combo%20the%CC%82%CC%89%20thao%20Meta.jpg
+
+ID: c-the-thao-sky-f1
+Tên gói: Combo thể thao Sky F1
+Ảnh hiện tại: /images/combo-the-thao-sky-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290e2753afb_Combo%20the%CC%82%CC%89%20thao%20Sky%20F1.jpg
+
+ID: c-the-thao-meta-f1
+Tên gói: Combo thể thao Meta F1
+Ảnh hiện tại: /images/combo-the-thao-meta-f1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290d3b04ce7_Combo%20the%CC%82%CC%89%20thao%20Meta%20F1.jpg
+
+ID: c-the-thao-sky-f2
+Tên gói: Combo thể thao Sky F2
+Ảnh hiện tại: /images/combo-the-thao-sky-f2.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290e3de7a5e_Combo%20the%CC%82%CC%89%20thao%20Sky%20F2.jpg
+
+ID: c-the-thao-meta-f2
+Tên gói: Combo thể thao Meta F2
+Ảnh hiện tại: /images/combo-the-thao-meta-f2.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290d21e20a9_Combo%20the%CC%82%CC%89%20thao%20Meta%20F2.jpg
+
+ID: c-the-thao-sky-f3
+Tên gói: Combo thể thao Sky F3
+Ảnh hiện tại: /images/combo-the-thao-sky-f3.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290e5a4eedb_Combo%20the%CC%82%CC%89%20thao%20Sky%20F3.jpg
+
+ID: c-the-thao-meta-f3
+Tên gói: Combo thể thao Meta F3
+Ảnh hiện tại: /images/combo-the-thao-meta-f3.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290ff165d7d_Combo%20th%E1%BB%83%20thao%20Meta%20F3.jpg
+
+ID: c-the-thao-lux500
+Tên gói: Combo thể thao Lux500
+Ảnh hiện tại: /images/combo-the-thao-lux500.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290caaf2a8e_Combo%20the%CC%82%CC%89%20thao%20Lux500.jpg
+
+ID: c-the-thao-lux800
+Tên gói: Combo thể thao Lux800
+Ảnh hiện tại: /images/combo-the-thao-lux800.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290cd05e167_Combo%20the%CC%82%CC%89%20thao%20Lux800.jpg
+
+ID: c-the-thao-speedx2
+Tên gói: Combo thể thao SpeedX2
+Ảnh hiện tại: /images/combo-the-thao-speedx2.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290ede21802_Combo%20the%CC%82%CC%89%20thao%20Speedx2.jpg
+
+ID: c-the-thao-speedx2-pro
+Tên gói: Combo thể thao SpeedX2 Pro
+Ảnh hiện tại: /images/combo-the-thao-speedx2-pro.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290ec9be4b9_Combo%20the%CC%82%CC%89%20thao%20Speedx2%20Pro.jpg
+
+ID: c-the-thao-speedx10
+Tên gói: Combo thể thao SpeedX10
+Ảnh hiện tại: /images/combo-the-thao-speedx10.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290ea7067a1_Combo%20the%CC%82%CC%89%20thao%20Speedx10.jpg
+
+ID: c-the-thao-speedx10-pro
+Tên gói: Combo thể thao SpeedX10 Pro
+Ảnh hiện tại: /images/combo-the-thao-speedx10-pro.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290e8d32b0d_Combo%20the%CC%82%CC%89%20thao%20Speedx10%20Pro.jpg
+
+
+--- Nhóm: fpt_play_only ---
+ID: banner-vvip
+Tên gói: Banner Khuyến Mãi
+Ảnh hiện tại: /images/optimized/fpt_play_only_banner.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-05-25/6a13a7334c042_Banner%20d%E1%BB%8Dc%20-%20318x421%20%281%29.jpg
+
+ID: vvip1
+Tên gói: Gói V.VIP 1
+Ảnh hiện tại: /images/optimized/fpt_vvip_1.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290f7992fa6_Go%CC%81i%20V.VIP%201-1250x902.jpg
+
+ID: vvip2
+Tên gói: Gói V.VIP 2
+Ảnh hiện tại: /images/optimized/fpt_vvip_2.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-10/6a290f6371125_Go%CC%81i%20V.VIP%202-1250x902.jpg
+
+ID: premium-fpt-play
+Tên gói: Gói Premium FPT Play
+Ảnh hiện tại: /images/optimized/fpt_play_premium.webp
+Link ảnh mới từ fpt.vn: 
+
+ID: combo-sky-f2
+Tên gói: Combo Sky F2
+Ảnh hiện tại: /images/combo-sky-f2.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a22b53bb7846_Combo%20Sky%20F2%20%283%29.jpg
+
+ID: combo-sky-f3
+Tên gói: Combo Sky F3
+Ảnh hiện tại: /images/combo-the-thao-sky-f3.webp
+Link ảnh mới từ fpt.vn: https://hi-static.fpt.vn/sys/shop/prod/2026-06-05/6a229b9a28b92_Combo%20Sky%20F3.jpg
